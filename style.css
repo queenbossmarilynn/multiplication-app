@@ -5,7 +5,7 @@ body {
   height: 100vh;
   align-items: center;
   text-align: center;
-  background-image: url("images/math-graph-1920x1080px.png");
+  background-image: url("./artifacts/images/math-tools-backgound.png");
   background-size: cover;
   overflow: hidden;
   font-family: cursive;
